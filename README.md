@@ -6,7 +6,7 @@ Brief description of your project.
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Project Workflow](#Project Workflow)
+2. [Project Workflow](#ProjectWorkflow)
 3. [Challenges](#Challenges)
 4. [Outcome](#Outcome)
 5. [License](#license)
