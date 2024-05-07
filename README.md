@@ -9,7 +9,7 @@ Brief description of your project.
 2. [Project Workflow](#ProjectWorkflow)
 3. [Challenges](#Challenges)
 4. [Outcome](#Outcome)
-5. [License](#license)
+
 
 ## Introduction
 
@@ -36,6 +36,3 @@ This project focuses on utilizing Natural Language Processing (NLP) techniques a
 The outcome of this project is a structured analysis of the articles, grouped into clusters based on their content. This allows for easier navigation and understanding of the diverse topics . Additionally, the visualization of clusters provides a quick overview of the main themes present in the articles.
 
 
-## License
-
-Include information about the license your project is released under.
